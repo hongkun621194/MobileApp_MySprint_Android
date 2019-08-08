@@ -1,0 +1,29 @@
+{
+    "lastModified": "2014-11-07T21:20:21.055Z",
+    "marketingCloud": {
+        "org": "5E6C123F5245B32D0A490D45@AdobeOrg"
+    },
+    "acquisition": {
+        "server": "c00.adobe.com",
+        "appid": "8ea9a88e328ef82a59780bb9824699a6b7964e5a98f1fa9c3f27b979b2a1ea0f"
+    },
+    "analytics": {
+        "rsids": "sprinttotaldev",
+        "server": "sappmetrics.sprint.com",
+        "ssl": true,
+        "offlineEnabled": true,
+        "charset": "UTF-8",
+        "lifecycleTimeout": 300,
+        "privacyDefault": "optedin",
+        "batchLimit": 0,
+        "timezone": "CST",
+        "timezoneOffset": -360,
+        "referrerTimeout": 5,
+        "poi": []
+    },
+    "messages": [],
+    "remotes": {
+        "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-547363bb3566370018e00300.json",
+         "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-547363bb36323600154d0200.json"
+    }
+}

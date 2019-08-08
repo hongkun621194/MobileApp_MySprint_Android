@@ -1,0 +1,354 @@
+{
+    "plans": [
+        {
+            "planDetails": {
+                "planName": "Sprint Unlimited",
+                "displayOrder": 0,
+                "productId": "pln10940004prd",
+                "planType": "SHARED",
+                "exclusive": false,
+                "existingInAccount": false,
+                "voiceAmount": "Unlimited",
+                "textAmount": "Unlimited",
+                "dataAmount": "Unlimited",
+                "saleStatus": "SELLABLE",
+                "dataUnit": "",
+                "linesMinLimit": 1,
+                "linesMaxLimit": 10,
+                "totalBasePrice": 65,
+                "totalFinalPrice": 65,
+                "linesDetail": [
+                    {
+                        "uniqueId": "1",
+                        "planSOCSKU": "LPDSA0542",
+                        "planBasePrice": 65,
+                        "planFinalPrice": 65,
+                        "planMRCPrice": 65,
+                        "lineRank": 1,
+                        "systemRequiredAddons": [
+                            {
+                                "serviceSOCSKU": "120200206",
+                                "socType": "MRC_SOC",
+                                "price": 65,
+                                "basePrice": 65,
+                                "promotionApplied": false,
+                                "requiredMACList": [
+                                    
+                                ],
+                                "hasPromotionButExceedLineLimit": false,
+                                "requiredSOCCorpDiscountApplied": false
+                            },
+                            {
+                                "serviceSOCSKU": "82700361",
+                                "socType": "PLAN_INCLUDED_SOC",
+                                "price": 0,
+                                "basePrice": 0,
+                                "promotionApplied": false,
+                                "requiredMACList": [
+                                    
+                                ],
+                                "hasPromotionButExceedLineLimit": false,
+                                "requiredSOCCorpDiscountApplied": false
+                            }
+                        ],
+                        "planMACList": [
+                            
+                        ],
+                        "nonMACDiscounts": [
+                            {
+                                "discountType": "SAVE_LATER",
+                                "discountAmount": 0,
+                                "discountId": "112600019",
+                                "duration": 1,
+                                "couponCodes": null,
+                                "priority": 1,
+                                "displayPriority": 1,
+                                "title": "Includes the TV you love, with Hulu.",
+                                "description": "Activate and stream Hulu as part of your Unlimited plan and enjoy the video streaming service that offers unlimited access to the most popular next-day TV, original series, thousands of hit shows, movies and more. A personalized TV experience with profiles for multiple viewers in your home. Limited time offer. 1 Hulu Limited commercials plan per Sprint account. HD content varies by device and connection. Tablet access via MHS reduced to 2G speeds after 10GB/mo. See full terms.",
+                                "legalese": "",
+                                "modalcta": null
+                            },
+                            {
+                          
+                          "discountType": "SAVE_LATER",
+                                "discountAmount": 0,
+                                "discountId": "115800007",
+                                "duration": 1,
+                                "couponCodes": null,
+                                "priority": 1
+                            },
+                            {
+                                "discountType": "SAVE_LATER",
+                                "discountAmount": 0,
+                                "discountId": "116700015",
+                                "duration": 1,
+                                "couponCodes": null,
+                                "priority": 1
+                            },
+                            {
+                                "discountType": "SAVE_LATER",
+                                "discountAmount": 0,
+                                "discountId": "113700020",
+                                "duration": 1,
+                                "couponCodes": null,
+                                "priority": 4,
+                                "displayPriority": 10,
+                                "title": "With Tech Expert, get answers to all of your device set up related questions.",
+                                "description": "You've got questions. We've got answers. A session with a Tech Expert will help you with virtually anything that comes up.\r\n\r\nThis free experience will get you set up with your new phone. Add Sprint Complete to your account to enjoy ongoing, virtually unlimited support for your device and almost anything connected to it.",
+                                "legalese": "",
+                                "modalcta": null
+                            }
+                        ],
+                        "lineCorpDiscountApplied": false,
+                        "planSOCCorpDiscountApplied": false
+                    }
+                ],
+                "planCorpDiscountApplied": false
+            },
+            "planWithAddOns": [
+                {
+                    "planWithSocName": "Sprint Unlimited Plus *Recommended*",
+                    "planWIthSoc": "LPDSA0542-PDSBYUP2",
+                    "planWithSocBasePrice": 75,
+                    "planWithSocFinalPrice": 65,
+                    "planWithSocMRCPrice": 65,
+                    "planWithAddOn.service.serviceSKU": "PDSBYUP2",
+                    "service": {
+                        "addonServiceName": "Plus *Recommended*",
+                        "serviceSOCSKU": "PDSBYUP2",
+                        "serviceSKU": "119200037",
+                        "socBasePrice": 10,
+                        "socFinalPrice": 10,
+                        "oneTime": false,
+                        "preselect": false,
+                        "requiresTnCOnSelection": true,
+                        "requiresWarningOnRemoval": false,
+                        "requiresWarningOnSelection": false,
+                        "allowUserToEdit": true,
+                        "doNotAllowUserToAdd": false,
+                        "devicePromotable": true,
+                        "serviceType": "INDIVIDUAL_SERVICE_TYPE",
+                        "prohibitiveSOCs": [
+                            "PDSBYUP4",
+                            "PDSBSIC"
+                        ],
+                        "requiredSOCs": [
+                            
+                        ],
+                        "messagingAddOnStatus": "HAS_NO_APPLICABLE_CORRESPONDING_MESSAGING_ADD_ONS",
+                        "dependingSOCs": [
+                            
+                        ],
+                        "lowerRankedExistingConflictingSOCs": null
+                    }
+                },
+                {
+                    "planWithSocName": "Sprint Unlimited Basic",
+                    "planWIthSoc": "LPDSA0542-PDSBSIC",
+                    "planWithSocBasePrice": 65,
+                    "planWithSocFinalPrice": 65,
+                    "planWithSocMRCPrice": 65,
+                    "planWithAddOn.service.serviceSKU": "PDSBSIC",
+                    "service": {
+                        "addonServiceName": "Basic",
+                        "serviceSOCSKU": "PDSBSIC",
+                        "serviceSKU": "119200036",
+                        "socBasePrice": 0,
+                        "socFinalPrice": 0,
+                        "oneTime": false,
+                        "preselect": false,
+                        "requiresTnCOnSelection": false,
+                        "requiresWarningOnRemoval": false,
+                        "requiresWarningOnSelection": false,
+                        "allowUserToEdit": true,
+                        "doNotAllowUserToAdd": false,
+                        "devicePromotable": true,
+                        "serviceType": "INDIVIDUAL_SERVICE_TYPE",
+                        "prohibitiveSOCs": [
+                            "PDSBYUP4",
+                            "PDSBYUP2"
+                        ],
+                        "requiredSOCs": [
+                            
+                        ],
+                        "messagingAddOnStatus": "HAS_NO_APPLICABLE_CORRESPONDING_MESSAGING_ADD_ONS",
+                        "dependingSOCs": [
+                            
+                        ],
+                        "lowerRankedExistingConflictingSOCs": null
+                    }
+                },
+                {
+                    "planWithSocName": "Sprint Unlimited Premium",
+                    "planWIthSoc": "LPDSA0542-PDSBYUP4",
+                    "planWithSocBasePrice": 95,
+                    "planWithSocFinalPrice": 95,
+                    "planWithSocMRCPrice": 65,
+                    "planWithAddOn.service.serviceSKU": "PDSBYUP4",
+                    "service": {
+                        "addonServiceName": "Premium",
+                        "serviceSOCSKU": "PDSBYUP4",
+                        "serviceSKU": "120700030",
+                        "socBasePrice": 30,
+                        "socFinalPrice": 30,
+                        "oneTime": false,
+                        "preselect": false,
+                        "requiresTnCOnSelection": true,
+                        "requiresWarningOnRemoval": false,
+                        "requiresWarningOnSelection": false,
+                        "allowUserToEdit": true,
+                        "doNotAllowUserToAdd": false,
+                        "devicePromotable": true,
+                        "serviceType": "INDIVIDUAL_SERVICE_TYPE",
+                        "prohibitiveSOCs": [
+                            "PDSBSIC",
+                            "PDSBYUP2"
+                        ],
+                        "requiredSOCs": [
+                            
+                        ],
+                        "messagingAddOnStatus": "HAS_NO_APPLICABLE_CORRESPONDING_MESSAGING_ADD_ONS",
+                        "dependingSOCs": [
+                            
+                        ],
+                        "lowerRankedExistingConflictingSOCs": null
+                    }
+                }
+            ]
+        },
+        {
+            "planDetails": {
+                "planName": "$30 2GB Entry Plan",
+                "displayOrder": 0,
+                "productId": "pln10170000prd",
+                "planType": "INDIVIDUAL",
+                "exclusive": false,
+                "existingInAccount": true,
+                "voiceAmount": "Unlimited",
+                "textAmount": "Unlimited",
+                "dataAmount": "2",
+                "saleStatus": "SELLABLE",
+                "dataUnit": "GB",
+                "linesMinLimit": 1,
+                "linesMaxLimit": 1,
+                "totalBasePrice": 30,
+                "totalFinalPrice": 30,
+                "linesDetail": [
+                    {
+                        "uniqueId": "1",
+                        "planSOCSKU": "PDSA0260",
+                        "planBasePrice": 30,
+                        "planFinalPrice": 30,
+                        "planMRCPrice": 30,
+                        "lineRank": 1,
+                        "systemRequiredAddons": [
+                            {
+                                "serviceSOCSKU": "82400067",
+                                "socType": "PLAN_INCLUDED_SOC",
+                                "price": 0,
+                                "basePrice": 0,
+                                "promotionApplied": false,
+                                "requiredMACList": [
+                                    
+                                ],
+                                "hasPromotionButExceedLineLimit": false,
+                                "requiredSOCCorpDiscountApplied": false
+                            }
+                        ],
+                        "planMACList": [
+                            
+                        ],
+                        "nonMACDiscounts": [
+                            {
+                                "discountType": "SAVE_LATER",
+                                "discountAmount": 0,
+                                "discountId": "113700020",
+                                "duration": 1,
+                                "couponCodes": null,
+                                "priority": 4,
+                                "displayPriority": 10,
+                                "title": "With Tech Expert, get answers to all of your device set up related questions.",
+                                "description": "You've got questions. We've got answers. A session with a Tech Expert will help you with virtually anything that comes up.\r\n\r\nThis free experience will get you set up with your new phone. Add Sprint Complete to your account to enjoy ongoing, virtually unlimited support for your device and almost anything connected to it.",
+                                "legalese": "",
+                                "modalcta": null
+                            }
+                        ],
+                        "lineCorpDiscountApplied": false,
+                        "planSOCCorpDiscountApplied": false
+                    }
+                ],
+                "planCorpDiscountApplied": false
+            },
+            "planWithAddOns": [
+                
+            ]
+        },
+        {
+            "planDetails": {
+                "planName": "2GB",
+                "displayOrder": 0,
+                "productId": "pln10520001prd",
+                "planType": "INDIVIDUAL",
+                "exclusive": false,
+                "existingInAccount": false,
+                "voiceAmount": "Unlimited",
+                "textAmount": "Unlimited",
+                "dataAmount": "2GB",
+                "saleStatus": "SELLABLE",
+                "dataUnit": "",
+                "linesMinLimit": 1,
+                "linesMaxLimit": 1,
+                "totalBasePrice": 45,
+                "totalFinalPrice": 45,
+                "linesDetail": [
+                    {
+                        "uniqueId": "1",
+                        "planSOCSKU": "PDSA574AS",
+                        "planBasePrice": 45,
+                        "planFinalPrice": 45,
+                        "planMRCPrice": 45,
+                        "lineRank": 1,
+                        "systemRequiredAddons": [
+                            {
+                                "serviceSOCSKU": "82700361",
+                                "socType": "PLAN_INCLUDED_SOC",
+                                "price": 0,
+                                "basePrice": 0,
+                                "promotionApplied": false,
+                                "requiredMACList": [
+                                    
+                                ],
+                                "hasPromotionButExceedLineLimit": false,
+                                "requiredSOCCorpDiscountApplied": false
+                            }
+                        ],
+                        "planMACList": [
+                            
+                        ],
+                        "nonMACDiscounts": [
+                            {
+                                "discountType": "SAVE_LATER",
+                                "discountAmount": 0,
+                                "discountId": "113700020",
+                                "duration": 1,
+                                "couponCodes": null,
+                                "priority": 4,
+                                "displayPriority": 10,
+                                "title": "With Tech Expert, get answers to all of your device set up related questions.",
+                                "description": "You've got questions. We've got answers. A session with a Tech Expert will help you with virtually anything that comes up.\r\n\r\nThis free experience will get you set up with your new phone. Add Sprint Complete to your account to enjoy ongoing, virtually unlimited support for your device and almost anything connected to it.",
+                                "legalese": "",
+                                "modalcta": null
+                            }
+                        ],
+                        "lineCorpDiscountApplied": false,
+                        "planSOCCorpDiscountApplied": false
+                    }
+                ],
+                "planCorpDiscountApplied": false
+            },
+            "planWithAddOns": [
+                
+            ]
+        }
+    ]
+}

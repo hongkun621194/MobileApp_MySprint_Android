@@ -1,0 +1,99 @@
+
+{
+    "ban": "573756396",
+    "totalSubscriberCount": 5,
+    "subscriberUpgradeInfo": [
+        {
+            "subscriptionInfo": {
+                "subscriberId": "77724441121",
+                "ptn": "573756396",
+                "subscriberDisplayName": "IPhone5",
+                "itemId": "RIPH6S16GGY1",
+                "itemModelName": "ItemTab167",
+                "deviceType": "PHONES",
+                "currentDeviceESN": "089878170205379381"
+            },
+            "upgradeEligiblityInfo": {
+                "eligibilityDetermined": true,
+                "upgradeEligibilityDetails": {
+                    "upgradeEligiblityStatus": "UPGRADE_ELIGIBLE",
+                    "eligibilityDate": "2020-03-01"
+                }
+            }
+        },
+        {
+            "subscriptionInfo": {
+                "subscriberId": "77724441121",
+                "ptn": "573756396",
+                "subscriberDisplayName": "IPhone6",
+                "itemId": "888462500753 ",
+                "itemModelName": "ItemTab167",
+                "deviceType": "TABLETS_AND_LAPTOPS",
+                "currentDeviceESN": "089878170205379381"
+            },
+            "upgradeEligiblityInfo": {
+                "eligibilityDetermined": true,
+                "upgradeEligibilityDetails": {
+                    "upgradeEligiblityStatus": "UPGRADE_ELIGIBLE",
+                    "eligibilityDate": "2020-03-01"
+                }
+            }
+        },
+        {
+            "subscriptionInfo": {
+                "subscriberId": "38142769121",
+                "ptn": "573756396",
+                "subscriberDisplayName": "IPhone7",
+                "itemId": "IPH6S16GBGD1",
+                "itemModelName": "ItemTab167",
+                "deviceType": "PHONES",
+                "currentDeviceESN": "089878170205379381"
+            },
+            "upgradeEligiblityInfo": {
+                "eligibilityDetermined": true,
+                "upgradeEligibilityDetails": {
+                    "upgradeEligiblityStatus": "UPGRADE_ELIGIBLE",
+                    "eligibilityDate": "2020-03-01",
+                    "eligibilityDeterminationFailureCode": "SUBSCRIBER_IN_CART"
+                }
+            }
+        },
+        {
+            "subscriptionInfo": {
+                "subscriberId": "29606770121",
+                "ptn": "573756396",
+                "subscriberDisplayName": "IPhone8",
+                "itemId": "IPH6S16GBGY1",
+                "itemModelName": "ItemTab167",
+                "deviceType": "PHONES",
+                "currentDeviceESN": "089878170205379381"
+            },
+            "upgradeEligiblityInfo": {
+                "eligibilityDetermined": true,
+                "upgradeEligibilityDetails": {
+                    "upgradeEligiblityStatus": "EARLY_UPGRADE_ELIGIBLE",
+                    "eligibilityDate": "2020-03-01",
+                    "eligibilityDeterminationFailureCode": "PENDING_UPGRADE_TRANSACTION"
+                }
+            }
+        },
+        {
+            "subscriptionInfo": {
+                "subscriberId": "29606770121",
+                "ptn": "573756396",
+                "subscriberDisplayName": "IPhone8",
+                "itemId": "IPH6S16GBRS1",
+                "itemModelName": "ItemTab167",
+                "deviceType": "PHONES",
+                "currentDeviceESN": "089878170205379381"
+            },
+            "upgradeEligiblityInfo": {
+                "eligibilityDetermined": true,
+                "upgradeEligibilityDetails": {
+                    "upgradeEligiblityStatus": "NOT_UPGRADE_ELIGIBLE",
+                    "eligibilityDate": "2020-03-01"
+                }
+            }
+        }
+    ]
+}

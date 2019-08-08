@@ -1,0 +1,73 @@
+{
+    "selectprotectionheader": "Select Protection Option",
+    "yournewphoneheader": "Protect Your New Phone",
+    "continueWithProtection": "Continue With Protection",
+    "serviceshortdescription": "When life happens, we\u0027ve got your back.",
+    "continueWithoutProtection": "Continue Without Protection",
+    "title": "When life happens, we\u0027ve got your back.",
+    "selectOptionLabel": "Select Option",
+    "declineColumnTwoText": "Without Sprint Complete",
+    "declineColumnOneImage": "/content/dam/app/sprint/uploaded_images/sprint-complete-logo.png",
+    "priceaddendum": "/mo.",
+    "ensembleId": "DEFAULT",
+    "declineDescription": "Sprint Complete can save you money monthly or when something happens",
+    "skipProtectionLabel": "Skip Protection",
+    "logoImage": "/content/dam/app/sprint/uploaded_images/sprint-complete-logo.png",
+    "declineColumnOneImageAltText": "Sprint Complete",
+    "programPopupTitleText": "Important Program Disclosures",
+    "programPopupDescText": "The replacement deductibles for select phones, smartphones and smartwatches are: Tier 1 $50; Tier 2 $125; Tier 3 $225; Tier 4 $275; Tier 5 $275. Coverage is limited to three insurance claims within any consecutive 12-month period with a maximum replacement value of $2,000 per claim and two Accidental Damage from Handling Claims within a consecutive 12-month period.\r\n\r\nThe replacement deductibles for tablets are: Tier 1 $100 and Tier 2 $200. Coverage is limited to three insurance claims within any consecutive 12-month period with a maximum replacement value of $1,500 per claim. There is no claim limit for mechanical ore electrical breakdown claims.\r\n\r\nReplacement equipment may be a new or refurbished device and/or a comparable model. You may cancel your optional coverage at any time. Enrollment is subject to a binding arbitration provision. Please refer to your complete terms and conditions, which include exclusions and limitations at www.sprintcomplete.com/landing",
+    "declineOptions": [{
+        "optionTitle": "Cracked Screen",
+        "withSprintCompleteOptionText": "$29",
+        "withoutSprintCompleteOptionText": "Up to",
+        "withoutSprintCompleteOptionPrice": "$250"
+    }, {
+        "optionTitle": "Lost Phone",
+        "withSprintCompleteOptionText": "Deductible up to $199",
+        "withoutSprintCompleteOptionText": "Up to",
+        "withoutSprintCompleteOptionPrice": " $799"
+    }, {
+        "optionTitle": "Cloud Storage",
+        "withSprintCompleteOptionText": "FREE",
+        "withoutSprintCompleteOptionText": "Up to",
+        "withoutSprintCompleteOptionPrice": "$20"
+    }, {
+        "optionTitle": "Password Protection",
+        "withSprintCompleteOptionText": "FREE",
+        "withoutSprintCompleteOptionText": "Up to",
+        "withoutSprintCompleteOptionPrice": "$15"
+    }],
+    "options": [{
+        "imageTitle": "$29 Cracked Screen Repair*",
+        "image": "/content/dam/app/sprint/uploaded_images/icon-cracked-screen.png",
+        "altTag": "icon of screen repair",
+        "optionUrl": "/content/sprint/screen-repair.html"
+    }, {
+        "imageTitle": "Unlimited Cloud Storage",
+        "image": "/content/dam/app/sprint/uploaded_images/icon-unlimited.png",
+        "altTag": "icon of cloud storage",
+        "optionUrl": "/content/sprint/cloud-storage.html"
+    }, {
+        "imageTitle": "Next Day Replacement",
+        "image": "/content/dam/app/sprint/uploaded_images/sc_calendar_icon.png",
+        "altTag": "icon of next day replacement",
+        "optionUrl": "/content/sprint/replacement.html"
+    }, {
+        "imageTitle": "Password Protection",
+        "image": "/content/dam/app/sprint/uploaded_images/icon-password_protection.png",
+        "altTag": "icon of password protection",
+        "optionUrl": "/content/sprint/password-protection.html"
+    }, {
+        "imageTitle": "Live Tech Expert Support",
+        "image": "/content/dam/app/sprint/uploaded_images/icon-livetechsupport.png",
+        "altTag": "icon of Live Tech",
+        "optionUrl": "/content/sprint/tech-support.html"
+    }, {
+        "imageTitle": "Apple Care Services",
+        "image": "/content/dam/app/sprint/uploaded_images/sc_Apple_icon.png",
+        "altTag": "icon of Apple Care",
+        "optionUrl": "/content/sprint/apple-care.html"
+    }],
+    "declineTitle": "Are you sure?",
+    "disclaimerText": "*For eligible devices"
+}

@@ -1,0 +1,38 @@
+{
+    "paymentMethods": [
+        {
+            "id": "1234",
+            "paymentMethodToken": "YZW7GU6N3WCE6785",
+            "type": "CREDIT_CARD",
+            "creditCardType": "VISA",
+            "number": "4423",
+            "expDate": "12/16",
+            "nickname": "Jim's CapitalOne Card",
+            "isAutopay": true,
+            "isPrimary": true,
+            "name": "SQAR DO NOT USE",
+            "address1": "Sprint Pkwy",
+            "address2": "Overland Park",
+            "city": "KS",
+            "state": "USA",
+            "zip": "12345",
+            "securityCode": "123",
+            "isPinlessDebit": false,
+            "isCardAOOwned": "true"
+        }
+    ],
+    "monthlyAdjustmentCodes": [
+        {
+            "mac": "AUTOPY05A",
+            "macType": [
+                "Autopay",
+                "ASL"
+            ],
+            "isExisting": false,
+            "duration": 9999,
+            "currentDiscount": 0,
+            "availableDiscount": 5,
+            "batchProcessInd": false
+        }
+    ]
+}

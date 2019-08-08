@@ -4,8 +4,14 @@
     <inspection_tool class="groupsTestNG" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="groups">
         <value>
-          <list size="1">
+          <list size="7">
             <item index="0" class="java.lang.String" itemvalue="MainBase" />
+            <item index="1" class="java.lang.String" itemvalue="MakePayment" />
+            <item index="2" class="java.lang.String" itemvalue="NonLogin" />
+            <item index="3" class="java.lang.String" itemvalue="AccountOwner" />
+            <item index="4" class="java.lang.String" itemvalue="Login" />
+            <item index="5" class="java.lang.String" itemvalue="LoginAO_Payment" />
+            <item index="6" class="java.lang.String" itemvalue="LoginAO_Sales" />
           </list>
         </value>
       </option>

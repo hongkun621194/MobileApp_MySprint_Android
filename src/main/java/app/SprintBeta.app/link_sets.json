@@ -1,0 +1,418 @@
+{
+    "version":3,
+    "enabled":true,
+    "linksets":[
+                {
+                "linkset.id":1000,
+                "linkset.name":"paybill",
+                "linkset.tag":"R8S",
+                "xoxobase.uri":"http://tvmka124.test.sprint.com:8080",
+                "base.uri":"http://m.sprint.com",
+                "uri":"/mySprintMobile/mysprint/mobilelandingpage.jsp?drawers=PayBill&ECID=MSM:SZ:052013:Hybrid",
+                "enabled":true,
+                "links":[
+                         {
+                         "link.id":101,
+                         "sequence":1,
+                         "enabled":true,
+                         "title":"Full Site",
+                         "description":"Full Site",
+                         "uri":"https://mysprint.sprint.com/mysprint/pages/secure/myaccount/landingPage.jsp?ECID=MSM:SZ:112013:iOSHybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":102,
+                         "sequence":2,
+                         "enabled":true,
+                         "title":"Email Signup",
+                         "description":"Email signup",
+                         "uri":"http://delivery.sprint.com/m/p/nxt/reg/cmb/generic.asp?ECID=MSM:SZ:112013:iOSHybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":103,
+                         "sequence":3,
+                         "enabled":true,
+                         "title":"Contact Us",
+                         "description":"Contact us",
+                         "uri":"https://mysprint.sprint.com/mysprint/jsp/landingPage/contactus.jsp?ECID=MSM:SZ:112013:iOSHybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":104,
+                         "sequence":4,
+                         "enabled":true,
+                         "title":"Legal Notices",
+                         "description":"Legal notices",
+                         "uri":"http://m.sprint.com/mobile/legal.html?ECID=MSM:SZ:112013:iOSHybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":105,
+                         "sequence":5,
+                         "enabled":true,
+                         "title":"Log Out",
+                         "description":"Log out of session",
+                         "uri":"https://m.sprint.com/mySprintMobile/homepage.jsp?smlogout=true",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":106,
+                         "sequence":6,
+                         "enabled":true,
+                         "title":"Clear Cache",
+                         "description":"Clear cache and cookies",
+                         "uri":"javascript:void(0)",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":107,
+                         "sequence":7,
+                         "enabled":true,
+                         "title":"Privacy",
+                         "description":"Privacy",
+                         "uri":"http://www.sprint.com/legal/privacy.html?ECID=MSM:SZ:112013:iOSHybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":108,
+                         "sequence":8,
+                         "enabled":true,
+                         "title":"Cancel",
+                         "description":"Cancel",
+                         "uri":"javascript:void(0)",
+                         "uri.relative":false,
+                         "extra":""
+                         }
+                         ],
+                "suppress.css":[
+                                {
+                                "enabled":true,
+                                "css.uri":"/mobile/css/default.min.css",
+                                "uri.relative":true,
+                                "css.keys":[
+                                            {
+                                            "enabled":true,
+                                            "selector.key":".s #masthead"
+                                            },
+                                            {
+                                            "enabled":true,
+                                            "selector.key":"#menuWrapper"
+                                            },
+                                            {
+                                            "enabled":true,
+                                            "selector.key":".s #crumbs"
+                                            },
+                                            {
+                                            "enabled":true,
+                                            "selector.key":".ui-loader-verbose"
+                                            },
+                                            {
+                                            "enabled":true,
+                                            "selector.key":".ui-loader-fakefix"
+                                            },
+                                            {
+                                            "enabled":true,
+                                            "selector.key":".s footer"
+                                            },
+                                            {
+                                            "enabled":false,
+                                            "selector.key":".s #PhonesOnAccount"
+                                            },
+                                            {
+                                            "enabled":false,
+                                            "selector.key":".s #AddaLine"
+                                            },
+                                            {
+                                            "enabled":false,
+                                            "selector.key":".s #BillingPreferences"
+                                            }
+                                            ]
+                                }
+                                ],
+                "suppress.ids":[
+                                {
+                                "enabled":false,
+                                "id.name":"addBanner"
+                                },
+                                {
+                                "enabled":false,
+                                "id.name":"PhonesOnAccount"
+                                },
+                                {
+                                "enabled":false,
+                                "id.name":"AddaLine"
+                                },
+                                {
+                                "enabled":false,
+                                "id.name":"BillingPreferences"
+                                }
+                                ],
+                "suppress.tagnames":[
+                                     {
+                                     "enabled":false,
+                                     "tag.name":"footer"
+                                     },
+                                     {
+                                     "enabled":false,
+                                     "tag.name":"header"
+                                     }
+                                     ],
+                "uri.patterns":[
+                                {
+                                "enabled":true,
+                                "pattern":"//m.sprint.com/shop",
+                                "action":"browser",
+                                "match.style":"contains"
+                                },
+                                {
+                                "enabled":true,
+                                "pattern":"http://shop.sprint.com",
+                                "action":"browser",
+                                "match.style":"start"
+                                },
+                                {
+                                "enabled":true,
+                                "pattern":"http://ag.sprint.com",
+                                "action":"browser",
+                                "match.style":"contains"
+                                }
+                                ]
+                },
+                {
+                "linkset.id":2000,
+                "linkset.name":"shop",
+                "linkset.tag":"FE8",
+                "xoxobase.uri":"http://tvmka124.test.sprint.com:8080",
+                "base.uri":"http://m.sprint.com",
+                "target.uri":"/shop/mobile/shop/phone_wall.jsp",
+                "enabled":true,
+                "links":[
+                         {
+                         "link.id":100,
+                         "sequence":0,
+                         "enabled":false,
+                         "title":"Home",
+                         "description":"Home",
+                         "uri":"/mySprintMobile/homepage.jsp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":true,
+                         "extra":""
+                         },
+                         {
+                         "link.id":101,
+                         "sequence":1,
+                         "enabled":true,
+                         "title":"Full Site",
+                         "description":"Full Site",
+                         "uri":"https://mysprint.sprint.com/mysprint/pages/secure/myaccount/landingPage.jsp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":102,
+                         "sequence":2,
+                         "enabled":true,
+                         "title":"Email signup",
+                         "description":"Email signup",
+                         "uri":"http://delivery.sprint.com/m/p/nxt/reg/cmb/generic.asp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":103,
+                         "sequence":3,
+                         "enabled":true,
+                         "title":"Contact us",
+                         "description":"Contact us",
+                         "uri":"https://mysprint.sprint.com/mysprint/jsp/landingPage/contactus.jsp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {
+                         "link.id":104,
+                         "sequence":4,
+                         "enabled":true,
+                         "title":"Legal notices",
+                         "description":"Legal notices",
+                         "uri":"/mobile/legal.html?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":true,
+                         "extra":""
+                         },
+                         {
+                         "link.id":105,
+                         "sequence":5,
+                         "enabled":true,
+                         "title":"Privacy",
+                         "description":"Privacy",
+                         "uri":"/mobile/legal.html?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         }
+                         ],
+                "suppress.ids":[
+                                {
+                                "enabled":true,
+                                "id.name":"addBanner"
+                                }
+                                ],
+                "suppress.tagnames":[
+                                     {
+                                     "enabled":true,
+                                     "tag.name":"footer"
+                                     },
+                                     {
+                                     "enabled":true,
+                                     "tag.name":"header"
+                                     }
+                                     ]
+                },
+                {
+                "linkset.id":3000,
+                "linkset.name":"paybill-test",
+                "linkset.tag":"R8S",
+                "base.uri":"http://tvmka124.test.sprint.com:8080",
+                "uri":"/mySprintMobile/mysprint/mobilelandingpage.jsp?drawers=PayBill&ECID=MSM:SZ:052013:Hybrid",
+                "enabled":true,
+                "links":[
+                         {
+                         "link.id":100,
+                         "sequence":0,
+                         "enabled":false,
+                         "title":"Home",
+                         "description":"Home",
+                         "uri":"/mySprintMobile/homepage.jsp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":true,
+                         "extra":""
+                         },
+                         {  
+                         "link.id":101,
+                         "sequence":1,
+                         "enabled":true,
+                         "title":"Full Site",
+                         "description":"Full Site",
+                         "uri":"https://mysprint.sprint.com/mysprint/pages/secure/myaccount/landingPage.jsp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {  
+                         "link.id":102,
+                         "sequence":2,
+                         "enabled":true,
+                         "title":"Email signup",
+                         "description":"Email signup",
+                         "uri":"http://delivery.sprint.com/m/p/nxt/reg/cmb/generic.asp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {  
+                         "link.id":103,
+                         "sequence":3,
+                         "enabled":true,
+                         "title":"Contact us",
+                         "description":"Contact us",
+                         "uri":"https://mysprint.sprint.com/mysprint/jsp/landingPage/contactus.jsp?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         },
+                         {  
+                         "link.id":104,
+                         "sequence":4,
+                         "enabled":true,
+                         "title":"Legal notices",
+                         "description":"Legal notices",
+                         "uri":"/mobile/legal.html?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":true,
+                         "extra":""
+                         },
+                         {  
+                         "link.id":105,
+                         "sequence":5,
+                         "enabled":true,
+                         "title":"Privacy",
+                         "description":"Privacy",
+                         "uri":"http://www.sprint.com/legal/privacy.html?ECID=MSM:SZ:050913:HybridMenu",
+                         "uri.relative":false,
+                         "extra":""
+                         }
+                         ],
+                "suppress.css":[  
+                                {  
+                                "enabled":true,
+                                "css.uri":"/mobile/css/default.min.css",
+                                "uri.relative":true,
+                                "css.keys":[  
+                                            {  
+                                            "enabled":true,
+                                            "selector.key":".s #masthead"
+                                            },
+                                            {  
+                                            "enabled":true,
+                                            "selector.key":".s footer"
+                                            },
+                                            {  
+                                            "enabled":false,
+                                            "selector.key":".s #PhonesOnAccount"
+                                            },
+                                            {  
+                                            "enabled":false,
+                                            "selector.key":".s #AddaLine"
+                                            },
+                                            {  
+                                            "enabled":false,
+                                            "selector.key":".s #BillingPreferences"
+                                            }
+                                            ]
+                                }
+                                ],
+                "suppress.ids":[  
+                                {  
+                                "enabled":true,
+                                "id.name":"addBanner"
+                                },
+                                {  
+                                "enabled":false,
+                                "id.name":"PhonesOnAccount"
+                                },
+                                {  
+                                "enabled":false,
+                                "id.name":"AddaLine"
+                                },
+                                {  
+                                "enabled":false,
+                                "id.name":"BillingPreferences"
+                                }
+                                ],
+                "suppress.tagnames":[  
+                                     {  
+                                     "enabled":true,
+                                     "tag.name":"footer"
+                                     },
+                                     {  
+                                     "enabled":true,
+                                     "tag.name":"header"
+                                     }
+                                     ],
+                "uri.patterns":[  
+                                {  
+                                "enabled":true,
+                                "pattern":"//m.sprint.com/shop",
+                                "action":"browser",
+                                "match.style":"contains"
+                                },
+                                {  
+                                "enabled":true,
+                                "pattern":"http://shop.sprint.com",
+                                "action":"browser",
+                                "match.style":"start"
+                                }
+                                ]
+                }
+                ]
+}

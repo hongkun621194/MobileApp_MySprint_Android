@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SPRCOM-92050 My Sprint App Android - Payment" >
+
+    <parameter name="udid" value="emulator-5554"/>
+    <parameter name="appiumPort" value="4733"/>
+    <parameter name="deviceName" value="appium29"/>
+
+    <test verbose="2" name="Android_Base">
+        <classes>
+            <class name="Android_Base.MainBase" />
+        </classes>
+    </test>
+
+    <test verbose="2" name="SPRCOM_105500_Android_LoginAO_Payment">
+        <groups>
+            <run>
+                <include name="LoginAO_Payment" />
+            </run>
+        </groups>
+        <classes>
+            <class name="SPRCOM_92050_Android_Payment.SPRCOM_105500_Android_LoginAO_Login" />
+            <class name="SPRCOM_92050_Android_Payment.SPRCOM_105500_Android_LoginAO_MakePayment" />
+        </classes>
+    </test>
+
+    <test verbose="2" name="SPRCOM_105500_Android_LoginAO_Sales">
+        <groups>
+            <run>
+                <include name="LoginAO_Sales" />
+            </run>
+        </groups>
+        <classes>
+            <class name="SPRCOM_92052_Android_Sales.SPRCOM_105700_Android_LoginAO_Login" />
+            <class name="SPRCOM_92052_Android_Sales.SPRCOM_105900_Android_LoginAO_Sales_MainPage_AddNewLine_Cart" />
+            <class name="SPRCOM_92052_Android_Sales.SPRCOM_105900_Android_LoginAO_Sales_MainPage_UpgradeAO_Cart" />
+        </classes>
+    </test>
+
+</suite>

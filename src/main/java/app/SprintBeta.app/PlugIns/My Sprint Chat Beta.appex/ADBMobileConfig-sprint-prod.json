@@ -1,0 +1,46 @@
+{
+    "lastModified": "2017-11-21T18:44:56.748Z",
+    "marketingCloud": {
+        "org": "5E6C123F5245B32D0A490D45@AdobeOrg"
+    },
+    "target": {
+        "clientCode": "sprint",
+        "timeout": 5
+    },
+    "audienceManager": {
+        "server": "sprintscs.demdex.net",
+        "analyticsForwardingEnabled": true,
+        "timeout": 5
+    },
+    "acquisition": {
+        "server": "c00.adobe.com",
+        "appid": "49d1bbd75ff87d25b3120f00e043ee5626e23b7240cbd0be8026cf35d24d770d"
+    },
+    "analytics": {
+        "rsids": "sprinttotalprod",
+        "server": "sappmetrics.sprint.com",
+        "ssl": true,
+        "offlineEnabled": true,
+        "charset": "UTF-8",
+        "lifecycleTimeout": 300,
+        "privacyDefault": "optedin",
+        "batchLimit": 0,
+        "timezone": "CDT",
+        "timezoneOffset": -300,
+        "referrerTimeout": 5,
+        "backdateSessionInfo": false,
+        "poi": [
+                [
+                 "6450 sprint pkwy",
+                 38.917006,
+                 -94.659808,
+                 100
+                 ]
+                ]
+    },
+    "messages": [],
+    "remotes": {
+        "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54a2d22b6337320015e90100.json",
+        "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-54a2d22b6337320015f20100.json"
+    }
+}

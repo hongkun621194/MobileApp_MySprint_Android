@@ -1,0 +1,201 @@
+{
+    "data": [
+        [
+            [
+                {
+                    "datatype": "PlansExplorerDataUse",
+                    "values": {
+                        "planlongdescription": "String.class",
+                        "identifier": "120200181",
+                        "planspecialoffertext": "String.class",
+                        "defaultskuid": "String.class",
+                        "serviceshortdescription": "String.class",
+                        "displayorder": "String.class",
+                        "includedamount": "String.class",
+                        "plandisclaimer": "<p><b>**</b> <b>Mo. charges excl. taxes &amp; Sprint Surcharges [incl. USF charge of up to 20.1%% (varies quarterly), up to $2.50 Admin. &amp; 40¢ Reg. /line/mo.) &amp; fees by area (approx. 5–20%%)].&nbsp; Surcharges are not taxes. See sprint.com/taxesandfees.</b></p>\r\n<p>Offer is for a limited time only. <b>Activ. Fee:</b> Up to $30/line. Credit approval req. Reqs, eBill. <b>Sprint Unlimited Basic Plan:</b> Includes unlimited domestic calling, texting, 500MB LTE MHS, VPN &amp; P2P &amp; data. MHS reduced to 3G speeds after 500MB/mo. Third-party content/downloads are add’l. charge. Plan not avail. for tablets or MBB devices. Select Int’l svcs. are included for phone lines. See sprint.com/globalroaming.&nbsp; Subsidized devices incur an add&#39;l. $25/mo. charge. <b>Sprint Unlimited Plus Plan:</b> $70/mo. for line 1, $50/mo. for line 2 &amp; $30/mo. for lines 3-5 with autopay. Non-Financed Promo: Up to 5 new lines on Unlimited Plus. Pay additional $20/mo/line after Financed device upgrade. Credits applied within 2 bills. Includes unlimited domestic calling, texting, 15GB LTE MHS, VPN &amp; P2P &amp; data. MHS reduced to 3G speeds after 15GB/mo. Third-party content/downloads are add’l charge. Plan not avail. for tablets or MBB devices. Select Int’l svcs. are included for phone lines. See sprint.com/globalroaming. Subsidized devices incur an add&#39;l. $25/mo. charge. <b>Sprint Unlimited Premium Plan:</b> $90/mo. for line 1, $70/mo. for line 2 &amp; $50/mo. for lines 3-5 with autopay. Third-party content/downloads are add’l charge. Plan not avail. for MBB devices. Select Int’l svcs. are included for phone lines. See sprint.com/globalroaming. Subsidized devices incur an add&#39;l. $25/mo. charge. <b>AutoPay:</b> $5/mo. discount may not reflect on 1st bill. <b>Hulu:</b> Only available in the U.S. Req. Incl. access to one Hulu Limited Commercials plan per each eligible Sprint account (excl. other Hulu plans and add-ons) while eligible Sprint plan is active and in good standing. Valid for new or returning Hulu subscribers or certain existing Limited Commercials subscribers. Select Hulu content streams in HD on supported devices subject to connectivity. Tablets may stream Hulu content via included Sprint Hot Spot or may subscribe to separate unlimited data plan for tablets. Not redeemable or refundable for cash or gift subscriptions. Hulu may place account on inactivity hold based on Hulu usage. Cancel Hulu anytime. See full offer terms at sprint.com/hulu. .<i> </i><b>Uber offer</b>: Up to $10 off 2 rides each month requested using the Uber app. Promo Code for discount must be entered in the Payments section of the Uber app prior to requesting a ride to receive discount. May take 30 days to receive ‑first code. Promo codes will expire 30 days after delivery. Excludes Uber Eats. <b>Amazon Prime:</b> Avail. content will vary. Streaming video content req. high-speed data connection. Data charges may apply.Amazon.com is not a sponsor of this promotion. All Amazon ®, TM &amp; © are IP of Amazon.com, Inc. or its affiliates. <b>Quality of Service (QoS):</b> Customers who use more than 50GB of data during a billing cycle will be deprioritized during times &amp; places where the Sprint network is constrained. See sprint.com/networkmanagement for details. <b>Usage Limitations:</b> To improve data experience for the majority of users, throughput may be limited, varied or reduced on the network. Sprint may terminate service if off-network roaming usage in a month exceeds: (1) 800 min. or a majority of min.; or (2) 100MB or a majority of KB. Prohibited use rules apply — see sprint.com/termsandconditions. <b>Other Terms:</b> Offer/coverage not available everywhere or for all phones/networks. Accounts that cancel lines within 30 days of activating on promo pricing may void savings. Included features/content may change or be discontinued at any time. May not be combined with other offers. Restrictions apply. See store or sprint.com for details © 2018 Sprint.</p>",
+                        "plantype": "String.class",
+                        "planspecialoffertextdescription": "String.class",
+                        "ensembleid": "LPDSA0542",
+                        "cmsdisplayname": "Sprint Unlimited",
+                        "unit": "String.class",
+                        "children": [],
+                        "planstyling": "preferred-plan",
+                        "logoimage": "String.class",
+                        "availabilitystatus": "Sellable",
+                        "planshortdescription": "<ul>\r\n<li>Unlimited talk and text nationwide</li>\r\n<li>2GB of high-speed data including mobile hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                        "orderasinteger": "0"
+                    }
+                },
+                {
+                    "datatype": "PlansExplorerDataUse",
+                    "values": {
+                        "planlongdescription": "String.class",
+                        "identifier": "pln10940004prd",
+                        "planspecialoffertext": "String.class",
+                        "defaultskuid": "120200182",
+                        "serviceshortdescription": "String.class",
+                        "displayorder": "String.class",
+                        "includedamount": "Unlimited",
+                        "plandisclaimer": "String.class",
+                        "plantype": "individual",
+                        "planspecialoffertextdescription": "String.class",
+                        "ensembleid": "String.class",
+                        "cmsdisplayname": "Sprint Unlimited",
+                        "unit": "Plan",
+                        "children": [
+                            "120200182",
+                            "120200181",
+                            "String.class"
+                        ],
+                        "planstyling": "preferred-plan",
+                        "logoimage": "String.class",
+                        "availabilitystatus": "Sellable",
+                        "planshortdescription": "<p>Mo. charges excl. taxes &amp; Sprint Surcharges [incl. USF charge of up to 20.1%% (varies quarterly), up to $2.50 Admin. &amp; 40¢ Reg. /line/mo.) &amp; fees by area (approx. 5–20%%)]. Surcharges are not taxes. See sprint.com/taxesandfees.</p>\r\n<p>&nbsp;</p>\r\n<p>\\r\\n</p>\r\n<p>Offer is for a limited time only. <b>Activ. Fee:</b> Up to $30/line. Credit approval req. Reqs, eBill. <b>Sprint Unlimited Basic Plan:</b> Includes unlimited domestic calling, texting, 500MB LTE MHS, VPN &amp; P2P &amp; data. MHS reduced to 3G speeds after 500MB/mo. Third-party content/downloads are add’l. charge. Plan not avail. for tablets or MBB devices. Select Int’l svcs. are included for phone lines. See sprint.com/globalroaming. Subsidized devices incur an add'l. $25/mo. charge. <b>Sprint Unlimited Plus Plan:</b> $70/mo. for line 1, $50/mo. for line 2 &amp; $30/mo. for lines 3-5 with autopay. Non-Financed Promo: Up to 5 new lines on Unlimited Plus. Pay additional $20/mo/line after Financed device upgrade. Credits applied within 2 bills. Includes unlimited domestic calling, texting, 15GB LTE MHS, VPN &amp; P2P &amp; data. MHS reduced to 3G speeds after 15GB/mo. Third-party content/downloads are add’l charge. Plan not avail. for tablets or MBB devices. Select Int’l svcs. are included for phone lines. See sprint.com/globalroaming. Subsidized devices incur an add'l. $25/mo. charge. <b>Sprint Unlimited Premium Plan:</b> $90/mo. for line 1, $70/mo. for line 2 &amp; $50/mo. for lines 3-5 with autopay. Third-party content/downloads are add’l charge. Plan not avail. for MBB devices. Select Int’l svcs. are included for phone lines. See sprint.com/globalroaming. Subsidized devices incur an add'l. $25/mo. charge. <b>AutoPay:</b> $5/mo. discount may not reflect on 1st bill. <b>Hulu:</b> Only available in the U.S. Req. Incl. access to one Hulu Limited Commercials plan per each eligible Sprint account (excl. other Hulu plans and add-ons) while eligible Sprint plan is active and in good standing. Valid for new or returning Hulu subscribers or certain existing Limited Commercials subscribers. Select Hulu content streams in HD on supported devices subject to connectivity. Tablets may stream Hulu content via included Sprint Hot Spot or may subscribe to separate unlimited data plan for tablets. Not redeemable or refundable for cash or gift subscriptions. Hulu may place account on inactivity hold based on Hulu usage. Cancel Hulu anytime. See full offer terms at sprint.com/hulu. . <i></i> <b>Uber offer</b>: Up to $10 off 2 rides each month requested using the Uber app. Promo Code for discount must be entered in the Payments section of the Uber app prior to requesting a ride to receive discount. May take 30 days to receive ‑first code. Promo codes will expire 30 days after delivery. Excludes Uber Eats. <b>Amazon Prime:</b> Avail. content will vary. Streaming video content req. high-speed data connection. Data charges may apply.Amazon.com is not a sponsor of this promotion. All Amazon ®, TM &amp; © are IP of Amazon.com, Inc. or its affiliates. <b>Quality of Service (QoS):</b> Customers who use more than 50GB of data during a billing cycle will be deprioritized during times &amp; places where the Sprint network is constrained. See sprint.com/networkmanagement for details. <b>Usage Limitations:</b> To improve data experience for the majority of users, throughput may be limited, varied or reduced on the network. Sprint may terminate service if off-network roaming usage in a month exceeds: (1) 800 min. or a majority of min.; or (2) 100MB or a majority of KB. Prohibited use rules apply — see sprint.com/termsandconditions. <b>Other Terms:</b> Offer/coverage not available everywhere or for all phones/networks. Accounts that cancel lines within 30 days of activating on promo pricing may void savings. Included features/content may change or be discontinued at any time. May not be combined with other offers. Restrictions apply. See store or sprint.com for details © 2018 Sprint.</p>",
+                        "orderasinteger": "0"
+                    }
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "datatype": "PlansExplorerDataUse",
+                    "values": {
+                        "planlongdescription": "String.class",
+                        "identifier": "103900148",
+                        "planspecialoffertext": "String.class",
+                        "defaultskuid": "String.class",
+                        "serviceshortdescription": "String.class",
+                        "displayorder": "String.class",
+                        "includedamount": "String.class",
+                        "plandisclaimer": "String.class",
+                        "plantype": "String.class",
+                        "planspecialoffertextdescription": "String.class",
+                        "ensembleid": "PDSA0260",
+                        "cmsdisplayname": "String.class",
+                        "unit": "String.class",
+                        "children": [],
+                        "planstyling": "preferred-plan",
+                        "logoimage": "String.class",
+                        "availabilitystatus": "Sellable",
+                        "planshortdescription": "<ul>\r\n<li>Unlimited talk and text nationwide</li>\r\n<li>2GB of high-speed data including mobile hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                        "orderasinteger": "0"
+                    }
+                },
+                {
+                    "datatype": "PlansExplorerDataUse",
+                    "values": {
+                        "planlongdescription": "String.class",
+                        "identifier": "pln10170000prd",
+                        "planspecialoffertext": "String.class",
+                        "defaultskuid": "103900148",
+                        "serviceshortdescription": "String.class",
+                        "displayorder": "String.class",
+                        "includedamount": "2",
+                        "plandisclaimer": "String.class",
+                        "plantype": "individual",
+                        "planspecialoffertextdescription": "String.class",
+                        "ensembleid": "String.class",
+                        "cmsdisplayname": "$30 2GB Entry Plan",
+                        "unit": "GB",
+                        "children": [
+                            "103900148"
+                        ],
+                        "planstyling": "preferred-plan",
+                        "logoimage": "String.class",
+                        "availabilitystatus": "Sellable",
+                        "planshortdescription": "<ul>\r\n<li>Unlimited talk and text nationwide</li>\r\n<li>2GB of high-speed data including mobile hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                        "orderasinteger": "0"
+                    }
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "datatype": "PlansExplorerDataUse",
+                    "values": {
+                        "planlongdescription": "String.class",
+                        "identifier": "112000072",
+                        "planspecialoffertext": "String.class",
+                        "defaultskuid": "String.class",
+                        "serviceshortdescription": "String.class",
+                        "displayorder": "String.class",
+                        "includedamount": "String.class",
+                        "plandisclaimer": "String.class",
+                        "plantype": "String.class",
+                        "planspecialoffertextdescription": "String.class",
+                        "ensembleid": "PDSA574AS",
+                        "cmsdisplayname": "2GB",
+                        "unit": "String.class",
+                        "children": [
+                            "String.class"
+                        ],
+                        "planiconbullets": "[{\"planIconImagePath\":\"/content/dam/sprint/north-america/usa/en/icons/icon-step-1-110x110.png\",\"planIconTitle\":\"Unlimited text , call and data\"},{\"planIconImagePath\":\"/content/dam/sprint/north-america/usa/en/icons/icon-step-1-110x110.png\",\"planIconTitle\":\"Unlimited text , call and data\"}]",
+                        "planstyling": "preferred-plan",
+                        "logoimage": "String.class",
+                        "availabilitystatus": "Sellable",
+                        "planshortdescription": "<ul>\r\n<li>Unlimited talk and text nationwide</li>\r\n<li>2GB of high-speed data including mobile hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                        "orderasinteger": "0"
+                    }
+                },
+                {
+                    "datatype": "PlansExplorerDataUse",
+                    "values": {
+                        "planlongdescription": "<ul>\r\n<li>Unlimited talk and text nationwide</li>\r\n<li>2GB of high-speed data including mobile hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                        "identifier": "pln10520001prd",
+                        "planspecialoffertext": "String.class",
+                        "defaultskuid": "112000072",
+                        "serviceshortdescription": "String.class",
+                        "displayorder": "3",
+                        "includedamount": "2",
+                        "plandisclaimer": "<p><b>**Monthly charges exclude taxes &amp; Sprint Surcharges [incl. USF charge of up to 17.4%% (varies quarterly), up to $2.50 Admin. &amp; .40 Reg. /line/mo. &amp; fees by area (approx. 5-20%%)]. Surcharges are not taxes. See sprint.com/taxesandfees. May require up to a $36 activation fee/line, credit approval, deposit. Up to $350/line early termination fee (ETF) for Advanced Devices &amp; up to $200 ETF/line for other devices applies (no ETF for Agreements cancelled in compliance with Sprint's Return Policy).</b></p>\r\n<p>All offers are for a limited time.</p>\r\n<p><b>AutoPay:</b> to receive $5/mo. discount you must remain enrolled in AutoPay. <b>Usage Limitations:</b> To improve data experience for the majority of users, throughput may be limited, varied or reduced on the network. Sprint may terminate svc. if off-network roaming usage in a mo. exceeds: (1) 800 min. or a majority of min.; or (2) 100MB or a majority of KB. Prohibited network use rules apply --see sprint.com/termsandconditions. <b>Other Terms:</b> Offer/coverage not avail. everywhere or for all phones/networks. Restrictions apply. See store or sprint.com for details. @ 2017 Sprint. All rights reserved. Sprint &amp; logo are trademarks of Sprint. Other marks are property of their respective owners.</p>",
+                        "plantype": "individual",
+                        "planspecialoffertextdescription": "String.class",
+                        "ensembleid": "String.class",
+                        "cmsdisplayname": "2GB",
+                        "unit": "GB",
+                        "children": [
+                            "112000072",
+                            "String.class"
+                        ],
+                        "planiconbullets": "[{\"planIconImagePath\":\"/content/dam/sprint/north-america/usa/en/icons/plans/icon-2GB-unlimited.svg\",\"planIconTitle\":\"Unlimited text and calls\"},{\"planIconImagePath\":\"/content/dam/sprint/north-america/usa/en/icons/plans/icon-2GB-hotspot.svg\",\"planIconTitle\":\"2GB LTE data and mobile hotspot\"}]",
+                        "planstyling": "preferred-plan",
+                        "logoimage": "String.class",
+                        "availabilitystatus": "Sellable",
+                        "planshortdescription": "<ul>\r\n<li>Unlimited talk and text nationwide</li>\r\n<li>2GB of high-speed data including mobile hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                        "orderasinteger": "3"
+                    }
+                },
+                [
+                    {
+                        "datatype": "PlansExplorerDataUse",
+                        "values": {
+                            "planlongdescription": "String.class",
+                            "identifier": "String.class",
+                            "planspecialoffertext": "String.class",
+                            "defaultskuid": "String.class",
+                            "serviceshortdescription": "String.class",
+                            "displayorder": "String.class",
+                            "includedamount": "String.class",
+                            "plandisclaimer": "String.class",
+                            "plantype": "String.class",
+                            "planspecialoffertextdescription": "String.class",
+                            "ensembleid": "String.class",
+                            "cmsdisplayname": "String.class",
+                            "unit": "String.class",
+                            "children": [
+                                "String.class"
+                            ],
+                            "planstyling": "preferred-plan",
+                            "logoimage": "String.class",
+                            "availabilitystatus": "String.class",
+                            "planshortdescription": "<ul>\r\n<li>Unlimited talk and text nationwide</li>\r\n<li>2GB of high-speed data including mobile hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                            "orderasinteger": "0"
+                        }
+                    }
+                ]
+            ]
+        ]
+    ]
+}

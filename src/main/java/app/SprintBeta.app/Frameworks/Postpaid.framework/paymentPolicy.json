@@ -1,0 +1,95 @@
+{
+    "walletMaxPO": 5,
+    "minMaxAmounts": [
+        {
+            "transactionType": "BILL_PAY",
+            "guest": {
+                "minAmount": 0.01,
+                "maxAmount": 2000,
+                "ceilingAmount": 25000,
+                "allowedPaymentMethods": [
+                    "Discover",
+                    "MasterCard",
+                    "Amex",
+                    "Visa",
+                    "Savings",
+                    "Diners",
+                    "Checking"
+                ]
+            },
+            "non-wallet": {
+                "minAmount": 0.01,
+                "maxAmount": 2000,
+                "ceilingAmount": 25000,
+                "allowedPaymentMethods": [
+                    "Discover",
+                    "MasterCard",
+                    "Amex",
+                    "Visa",
+                    "Savings",
+                    "Diners",
+                    "Checking"
+                ]
+            },
+            "wallet": {
+                "minAmount": 0.01,
+                "maxAmount": 2000,
+                "ceilingAmount": 25000,
+                "allowedPaymentMethods": [
+                    "Discover",
+                    "MasterCard",
+                    "Amex",
+                    "Visa",
+                    "Savings",
+                    "Diners",
+                    "Checking"
+                ]
+            }
+        },
+        {
+            "transactionType": "ACTIVATION",
+            "guest": {
+                "minAmount": 0.01,
+                "maxAmount": 2000,
+                "ceilingAmount": 25000,
+                "allowedPaymentMethods": [
+                    "Discover",
+                    "MasterCard",
+                    "Amex",
+                    "Visa",
+                    "Savings",
+                    "Diners",
+                    "Checking"
+                ]
+            },
+            "non-wallet": {
+                "minAmount": 0.01,
+                "maxAmount": 2000,
+                "ceilingAmount": 25000,
+                "allowedPaymentMethods": [
+                    "Discover",
+                    "MasterCard",
+                    "Amex",
+                    "Visa",
+                    "Savings",
+                    "Diners",
+                    "Checking"
+                ]
+            },
+            "wallet": {
+                "minAmount": 0.01,
+                "maxAmount": 2000,
+                "ceilingAmount": 25000,
+                "allowedPaymentMethods": [
+                    "Discover",
+                    "MasterCard",
+                    "Amex",
+                    "Visa",
+                    "Savings",
+                    "Diners",
+                    "Checking"
+                ]
+            }
+        }
+    ]
+}

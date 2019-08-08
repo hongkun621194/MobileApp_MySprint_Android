@@ -1,0 +1,31 @@
+[
+{
+"amount": 14.45,
+"paymentType": "PROMISE",
+"date": "2016-12-29"
+},
+{
+"paymentType": "SCHEDULED",
+"amount": "34.45",
+"date": "2016-12-25",
+"number": "4423",
+"creditCardType": "VISA",
+"type": "CREDIT_CARD",
+"confirmationNumber": "222234",
+"nickname": "Jim's CapitalOne Card",
+"paymentMethodId": "ERJVNFDIE34DDRE",
+"expDate": "12/16"
+},
+{
+"paymentType": "SCHEDULED",
+"amount": "34.89",
+"date": "2016-12-28",
+"number": "4585",
+"creditCardType": "VISA",
+"type": "CREDIT_CARD",
+"confirmationNumber": "222238",
+"nickname": "Jim's Card",
+"paymentMethodId": "HRJVNFDIE34ABCG",
+"expDate": "12/17"
+}
+]

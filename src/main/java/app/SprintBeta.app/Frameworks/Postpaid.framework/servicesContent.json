@@ -1,0 +1,215 @@
+{
+    "data": [
+        [
+            {
+                "datatype": "ServicesExplorerDataUse",
+                "values": {
+                    "identifier": "119200037",
+                    "defaultskuid": "String.class",
+                    "formattedservicebullets": "String.class",
+                    "serviceshortdescription": "String.class",
+                    "servicebullets": [
+                        "Unlimited data, talk, and text nationwide",
+                        "All the features of Unlimited Basic AND:",
+                        "Stream music with TIDAL (excludes business accounts)",
+                        "Stream in HD and 50GB of LTE Mobile Hotspot",
+                    "Free text and basic data abroad – in 200+ worldwide destinations"
+                    ],
+                    "title": "Unlimited Plus w/Tidal Premium_PDSBYUP2",
+                    "removalmessage": "String.class",
+                    "priceaddendum": "String.class",
+                    "ensembleid": "PDSBYUP2",
+                    "servicebasicbullets": ["{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"Unlimited test , call and data\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"DVD quality video Streaming\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"500 MB LTE Mobile hotspot\"}"],
+                    "servicebundleextratitle": "Bundled Extras",
+                    "servicebundleextraimage": "",
+                    "preselectedonlandingpage": "String.class",
+                    "cmsdisplayname": "Plus *Recommended*",
+                    "hide": "String.class",
+                    "children": [],
+                    "logoimage": "String.class",
+                    "isban": "String.class",
+                    "servicelongdescription": "String.class",
+                    "derivedavailstatus": "Sellable",
+                    "servicenote": "String.class",
+                    "availabilitystatus": "Supported",
+                    "selectionmessage": "String.class",
+                    "termsandconditions": "String.class"
+                }
+            },
+            {
+                "datatype": "ServicesExplorerDataUse",
+                "values": {
+                    "identifier": "srvc10830004prd",
+                    "defaultskuid": "119200037",
+                    "formattedservicebullets": "String.class",
+                    "serviceshortdescription": "<ul style=\"list-style-position: inside;\">\r\n<li>Unlimited data, talk, and text nationwide</li>\r\n<li>All the features of Unlimited Basic AND:</li>\r\n<li>Stream music with <b>TIDAL</b> (excludes business accounts)</li>\r\n<li>Stream in <b>HD</b> and <b>50GB</b> of LTE Mobile Hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                    "servicebullets": [
+                        "Unlimited data, talk, and text nationwide",
+                        "All the features of Unlimited Basic AND:",
+                        "Stream music with TIDAL (excludes business accounts)",
+                        "Stream in HD and 50GB of LTE Mobile Hotspot",
+                        "Free text and basic data abroad – in 200+ worldwide destinations"
+                    ],
+                    "title": "Unlimited Plus w/Tidal Premium_PDSBYUP2",
+                    "removalmessage": "String.class",
+                    "priceaddendum": "String.class",
+                    "ensembleid": "String.class",
+                    "preselectedonlandingpage": "No",
+                    "cmsdisplayname": "Plus *Recommended*",
+                    "hide": "String.class",
+                    "children": [
+                        "119200037"
+                    ],
+                    "logoimage": "String.class",
+                    "isban": "No",
+                    "servicelongdescription": "<ul style=\"list-style-position: inside;\">\r\n<li>Unlimited data, talk, and text nationwide</li>\r\n<li>All the features of Unlimited Basic AND:</li>\r\n<li>Stream music with <b>TIDAL</b> (excludes business accounts)</li>\r\n<li>Stream in <b>HD</b> and <b>50GB</b> of LTE Mobile Hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                    "derivedavailstatus": "String.class",
+                    "servicenote": "String.class",
+                    "availabilitystatus": "Sellable",
+                    "selectionmessage": "String.class",
+                    "termsandconditions": "Off-network roaming limited to 100 MB or majority of MBs used.Your data usage is subject to the limits in your plan."
+                }
+            }
+        ],
+        [
+            {
+                "datatype": "ServicesExplorerDataUse",
+                "values": {
+                    "identifier": "119200036",
+                    "defaultskuid": "String.class",
+                    "formattedservicebullets": "String.class",
+                    "serviceshortdescription": "String.class",
+                    "servicebullets": [
+                        "Unlimited data, talk, and text nationwide",
+                        "All the features of Unlimited Basic AND:",
+                        "Stream music with TIDAL (excludes business accounts)",
+                        "Stream in HD and 50GB of LTE Mobile Hotspot",
+                    "Free text and basic data abroad – in 200+ worldwide destinations"
+                    ],
+                    "title": "Unlimited Basic_PDSBSIC",
+                    "removalmessage": "String.class",
+                    "priceaddendum": "String.class",
+                    "ensembleid": "PDSBSIC",
+                    "servicebasicbullets": ["{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"Unlimited test , call and data\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"DVD quality video Streaming\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"500 MB LTE Mobile hotspot\"}"],
+                    "servicebundleextratitle": "Bundled Extras",
+                    "servicebundleextraimage": "",
+                    "preselectedonlandingpage": "String.class",
+                    "cmsdisplayname": "Basic",
+                    "hide": "String.class",
+                    "children": [],
+                    "logoimage": "String.class",
+                    "isban": "String.class",
+                    "servicelongdescription": "String.class",
+                    "derivedavailstatus": "Sellable",
+                    "servicenote": "String.class",
+                    "availabilitystatus": "Sellable",
+                    "selectionmessage": "String.class",
+                    "termsandconditions": "String.class"
+                }
+            },
+            {
+                "datatype": "ServicesExplorerDataUse",
+                "values": {
+                    "identifier": "srvc10830003prd",
+                    "defaultskuid": "119200036",
+                    "formattedservicebullets": "String.class",
+                    "serviceshortdescription": "<ul style=\"list-style-position: inside;\">\r\n<li>Unlimited data, talk, and text nationwide</li>\r\n<li>TV and movies you love with Hulu (excludes business accounts)</li>\r\n<li>Streaming in SD and <b>500MB</b> Mobile Hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                    "servicebullets": [
+                        "Unlimited data, talk, and text nationwide",
+                        "TV and movies you love with Hulu (excludes business accounts)",
+                        "Streaming in SD and 500MB Mobile Hotspot",
+                        "Free text and basic data abroad – in 200+ worldwide destinations"
+                    ],
+                    "title": "Unlimited Basic_PDSBSIC",
+                    "removalmessage": "String.class",
+                    "priceaddendum": "String.class",
+                    "ensembleid": "String.class",
+                    "preselectedonlandingpage": "No",
+                    "cmsdisplayname": "Basic",
+                    "hide": "String.class",
+                    "children": [
+                        "119200036"
+                    ],
+                    "logoimage": "String.class",
+                    "isban": "No",
+                    "servicelongdescription": "<ul style=\"list-style-position: inside;\">\r\n<li>Unlimited data, talk, and text nationwide</li>\r\n<li>TV and movies you love with Hulu (excludes business accounts)</li>\r\n<li>Streaming in SD and <b>500MB</b> Mobile Hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                    "servicebasicbullets": ["{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"Unlimited test , call and data\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"DVD quality video Streaming\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"500 MB LTE Mobile hotspot\"}"],
+                    "derivedavailstatus": "String.class",
+                    "servicenote": "String.class",
+                    "availabilitystatus": "Sellable",
+                    "selectionmessage": "String.class",
+                    "termsandconditions": "Off-network roaming limited to 100 MB or majority of MBs used.Your data usage is subject to the limits in your plan."
+                }
+            }
+        ],
+        [
+            {
+                "datatype": "ServicesExplorerDataUse",
+                "values": {
+                    "identifier": "120700030",
+                    "defaultskuid": "String.class",
+                    "formattedservicebullets": "String.class",
+                    "serviceshortdescription": "<ul>\r\n<li>All the features of Basic, Plus, AND:</li>\r\n<li><b>Amazon Prime and Lookout Premium Plus</b>.</li>\r\n<li>Streaming in <b>full HD</b> and <b>100GB</b> of LTE Mobile Hotspot</li>\r\n</ul>",
+                    "servicebullets": [
+                        "All the features of Basic, Plus, AND:",
+                        "Amazon Prime and Lookout Premium Plus.",
+                        "Streaming in full HD and 100GB of LTE Mobile Hotspot"
+                    ],
+                    "title": "Unlimited Premium w/Tidal and Lookout _PDSBYUP4",
+                    "removalmessage": "String.class",
+                    "priceaddendum": "String.class",
+                    "ensembleid": "PDSBYUP4",
+                    "preselectedonlandingpage": "String.class",
+                    "cmsdisplayname": "Premium",
+                    "hide": "String.class",
+                    "children": [],
+                    "logoimage": "String.class",
+                    "isban": "String.class",
+                    "servicelongdescription": "<ul>\r\n<li>All the features of Basic, Plus, AND:</li>\r\n<li><b>Amazon Prime and Lookout Premium Plus</b>.</li>\r\n<li>Streaming in <b>full HD</b> and <b>100GB</b> of LTE Mobile Hotspot</li>\r\n</ul>",
+                    "servicebasicbullets": ["{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"Unlimited test , call and data\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"DVD quality video Streaming\"}","{\"serviceIconImagePath\":\"\",\"serviceIconTitle\":\"500 MB LTE Mobile hotspot\"}"],
+                    "servicebundleextratitle": "Bundled Extras",
+                    "servicebundleextraimage": "",
+                    "derivedavailstatus": "Sellable",
+                    "servicenote": "String.class",
+                    "availabilitystatus": "Sellable",
+                    "selectionmessage": "String.class",
+                    "termsandconditions": "String.class"
+                }
+            },
+            {
+                "datatype": "ServicesExplorerDataUse",
+                "values": {
+                    "identifier": "srvc10870002prd",
+                    "defaultskuid": "120700030",
+                    "formattedservicebullets": "String.class",
+                    "serviceshortdescription": "<ul>\r\n<li>Unlimited Plan - Unlimited Talk, Text &amp; Data</li>\r\n<li>All the features of Unlimited Basic, Unlimited Plus AND:</li>\r\n<li><b>Amazon Prime</b> and <b>Lookout Premium Plus</b> on us</li>\r\n<li>Streaming in&nbsp;<b>full HD</b>&nbsp;and&nbsp;<b>100GB</b>&nbsp;of LTE Mobile Hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                    "servicebullets": [
+                        "Unlimited data, talk, and text nationwide",
+                        "All the features of Unlimited Basic, Unlimited Plus AND:",
+                        "Amazon Prime and Lookout Premium Plus on us",
+                        "Streaming in full HD and 100GB of LTE Mobile Hotspot",
+                        "Free text and basic data abroad – in 200+ worldwide destinations"
+                    ],
+                    "title": "Unlimited Premium w/Tidal and Lookout _PDSBYUP4",
+                    "removalmessage": "String.class",
+                    "priceaddendum": "String.class",
+                    "ensembleid": "String.class",
+                    "preselectedonlandingpage": "No",
+                    "cmsdisplayname": "Premium",
+                    "hide": "String.class",
+                    "children": [
+                        "120700030"
+                    ],
+                    "logoimage": "String.class",
+                    "isban": "No",
+                    "servicelongdescription": "<ul>\r\n<li>Unlimited Plan - Unlimited Talk, Text &amp; Data</li>\r\n<li>All the features of Unlimited Basic, Unlimited Plus AND:</li>\r\n<li><b>Amazon Prime</b> and <b>Lookout Premium Plus</b> on us</li>\r\n<li>Streaming in&nbsp;<b>full HD</b>&nbsp;and&nbsp;<b>100GB</b>&nbsp;of LTE Mobile Hotspot</li>\r\n<li>Free text and basic data abroad – in 200+ worldwide destinations</li>\r\n</ul>",
+                    "derivedavailstatus": "String.class",
+                    "servicenote": "String.class",
+                    "availabilitystatus": "Sellable",
+                    "selectionmessage": "String.class",
+                    "termsandconditions": "Off-network roaming limited to 100 MB or majority of MBs used.Your data usage is subject to the limits in your plan."
+                }
+            }
+        ]
+    ]
+}

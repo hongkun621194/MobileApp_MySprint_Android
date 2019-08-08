@@ -1,0 +1,22 @@
+{
+    "aslAccount": true,
+    "totalDue": 217.57,
+    "pastDueAmount": 98.83,
+    "pastDue": true,
+    "estimatedAmount": 217.57,
+    "billAmount": 12.86,
+    "arBalance": 12.86,
+    "adjustmentsAndCredits": 18.08,
+    "recentPaymentsTotal": 12.86,
+    "dueDate": "2019-01-28",
+    "noOfDaysToDueDate": 3,
+    "nextDueDate": "2019-02-28",
+    "lastPayment": 10.56,
+    "lastPaymentDate": "2016-07-24",
+    "recentBillSequenceNumber": 25,
+    "aslNetBalance": 100,
+    "aslSpendingLimit": 400,
+    "aslPercentageUsed": 25,
+    "aslBanSuspensionLimit": 600,
+    "monthlyRecurringCharge": 88
+}
